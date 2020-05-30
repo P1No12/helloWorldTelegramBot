@@ -1,1 +1,1 @@
-worker: sh target/bin/app
+worker: sh target/app.jar
