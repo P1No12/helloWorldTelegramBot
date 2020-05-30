@@ -1,1 +1,1 @@
-worker: sh target/bin/telegramBotBase
+web: java -jar target/telegramBotBase.jar
