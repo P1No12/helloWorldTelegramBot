@@ -1,1 +1,1 @@
-worker: sh target/bin/test.app
+worker: sh target/app
