@@ -1,1 +1,1 @@
-web: java -jar target/telegramBotBase
+web: java -jar target/telegramBotBase.jar
