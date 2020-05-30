@@ -1,1 +1,1 @@
-worker: sh target/app.jar
+web: java -jar target/app.jar
