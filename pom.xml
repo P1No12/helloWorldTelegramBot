@@ -16,7 +16,7 @@
     </properties>
 
     <build>
-        <finalName>telegramBotBase</finalName>
+        <finalName>app</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
